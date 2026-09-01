@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 class Identification
 {
@@ -23,3 +22,4 @@ class Identification
         Identify(7);
     }
 }
+
