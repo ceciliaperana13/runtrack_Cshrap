@@ -4,7 +4,7 @@ class List
 {
     static void ListTargets(string[] targets)
     {
-        for (int i = 0; i < targets.Length; i++)
+        for (int i = 0; i < targets.Length; i++)//possible de mettre for each (string target in targets) pour simplifier 
         {
             Console.WriteLine($"Mannequin : {targets[i]}");
         }
