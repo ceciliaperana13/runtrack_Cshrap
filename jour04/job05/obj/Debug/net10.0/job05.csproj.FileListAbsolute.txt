@@ -1,0 +1,15 @@
+C:\Users\cpera\runtrack_c-\jour04\job05\bin\Debug\net10.0\job05.exe
+C:\Users\cpera\runtrack_c-\jour04\job05\bin\Debug\net10.0\job05.deps.json
+C:\Users\cpera\runtrack_c-\jour04\job05\bin\Debug\net10.0\job05.runtimeconfig.json
+C:\Users\cpera\runtrack_c-\jour04\job05\bin\Debug\net10.0\job05.dll
+C:\Users\cpera\runtrack_c-\jour04\job05\bin\Debug\net10.0\job05.pdb
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\job05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\job05.AssemblyInfoInputs.cache
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\job05.AssemblyInfo.cs
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\job05.csproj.CoreCompileInputs.cache
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\job05.sourcelink.json
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\job05.dll
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\refint\job05.dll
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\job05.pdb
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\job05.genruntimeconfig.cache
+C:\Users\cpera\runtrack_c-\jour04\job05\obj\Debug\net10.0\ref\job05.dll

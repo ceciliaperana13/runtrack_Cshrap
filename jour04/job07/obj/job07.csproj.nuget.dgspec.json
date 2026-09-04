@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cpera\\runtrack_c-\\jour04\\job04\\job04.csproj": {}
+    "C:\\Users\\cpera\\runtrack_c-\\jour04\\job07\\job07.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cpera\\runtrack_c-\\jour04\\job04\\job04.csproj": {
+    "C:\\Users\\cpera\\runtrack_c-\\jour04\\job07\\job07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cpera\\runtrack_c-\\jour04\\job04\\job04.csproj",
-        "projectName": "job04",
-        "projectPath": "c:\\Users\\cpera\\runtrack_c-\\jour04\\job04\\job04.csproj",
+        "projectUniqueName": "C:\\Users\\cpera\\runtrack_c-\\jour04\\job07\\job07.csproj",
+        "projectName": "job07",
+        "projectPath": "C:\\Users\\cpera\\runtrack_c-\\jour04\\job07\\job07.csproj",
         "packagesPath": "C:\\Users\\cpera\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cpera\\runtrack_c-\\jour04\\job04\\obj\\",
+        "outputPath": "C:\\Users\\cpera\\runtrack_c-\\jour04\\job07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
